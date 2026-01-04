@@ -70,7 +70,7 @@
 
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/rquijote/algorithms-visualiser.git
+git clone https://github.com/rquijote/AlgorithmsVisualiser.git
 cd algorithms-visualiser-main 
 ```
 
